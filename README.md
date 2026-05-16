@@ -16,7 +16,7 @@ Dashboard analisis penjualan retail yang menampilkan performa penjualan dan prof
 - Microsoft Excel (Data Preparation)
 
 ### Download
-- **[Download File Power BI (.pbix)](/vezanhd/retail-sales-dashboard-powerbi/blob/main/dashboard/Dashboard_Penjualan_Retail_PowerBI.pbix)**
+- **[Download File Power BI (.pbix)](https://github.com/vezanhd/retail-sales-dashboard-powerbi/raw/main/dashboard/Dashboard_Penjualan_Retail_PowerBI.pbix)**
 
 ### Screenshot
 
