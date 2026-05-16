@@ -5,8 +5,8 @@
 Dashboard analisis penjualan retail yang menampilkan performa penjualan dan profitabilitas menggunakan **Microsoft Power BI**.
 
 ### Fitur Dashboard
-- **Dashboard Penjualan Retail**: Overview total sales, quantity, profit, dan performa per wilayah & kategori
-- **Dashboard Profitabilitas**: Analisis margin profit, diskon, dan kontribusi profit per produk
+- **Dashboard Penjualan Retail**: Overview total sales, quantity, dan performa per wilayah & kategori
+- **Dashboard Profitabilitas**: Analisis margin profit dan kontribusi profit per kategori
 - Filter interaktif berdasarkan wilayah, kategori, dan periode waktu
 - Menggunakan calculated measures dan DAX untuk analisis yang lebih dalam
 
@@ -15,11 +15,8 @@ Dashboard analisis penjualan retail yang menampilkan performa penjualan dan prof
 - DAX (Data Analysis Expressions)
 - Microsoft Excel (Data Preparation)
 
-### Links
-- **Dashboard Penjualan Retail**: [Lihat Dashboard Tableau](https://public.tableau.com/app/profile/vezan.hidayatullah/viz/Dashboard_Penjualan_Retail_Tableau/FIXDashboardPenjualanRetail2023-2024) *(Versi Tableau)*
-- **Dashboard Profitabilitas**: [Lihat Dashboard Tableau](https://public.tableau.com/app/profile/vezan.hidayatullah/viz/Dashboard_Penjualan_Retail_Tableau/FIXDashboardProfitabilitas)
-
-*(Power BI Dashboard akan di-update setelah file .pbix di-upload)*
+### Download
+- **[Download File Power BI (.pbix)](/vezanhd/retail-sales-dashboard-powerbi/blob/main/dashboard/Dashboard_Penjualan_Retail_PowerBI.pbix)**
 
 ### Screenshot
 
